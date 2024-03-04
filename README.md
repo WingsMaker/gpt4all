@@ -5,3 +5,6 @@ Local LLM demo using gpt4all-falcon-newbpe-q4_0.gguf model with gradio framework
 
 
 <a href='https://gpt4all.io/models/gguf/gpt4all-falcon-newbpe-q4_0.gguf'>Download the offline LLM model 4GB</a>
+
+Learn more about the gpt4all<br>
+https://gpt4all.io/index.html
